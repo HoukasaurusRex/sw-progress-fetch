@@ -1,0 +1,16 @@
+{
+  "extends": ["plugin:prettier/recommended"],
+  "env": {
+      "node": true
+  },
+  "globals": {
+      "Atomics": "readonly",
+      "SharedArrayBuffer": "readonly"
+  },
+  "parserOptions": {
+      "ecmaVersion": 2019,
+      "sourceType": "module"
+  },
+  "rules": {
+  }
+}

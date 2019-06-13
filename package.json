@@ -1,0 +1,20 @@
+{
+  "name": "sw-progress-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "husky": "^2.4.0",
+    "lint-staged": "^8.2.0",
+    "prettier": "^1.18.2"
+  },
+  "keywords": [],
+  "author": "JT Houk <jt1992@gmail.com> (https://www.jt-houk.com/)",
+  "license": "MIT"
+}
