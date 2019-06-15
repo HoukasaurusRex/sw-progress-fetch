@@ -1,6 +1,6 @@
 {
   "name": "sw-progress-fetch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Dispatches fetch event progress as a 'message' event to a Service Worker.",
   "main": "index.js",
   "scripts": {
