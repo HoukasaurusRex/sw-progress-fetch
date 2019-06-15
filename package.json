@@ -4,7 +4,7 @@
   "description": "Dispatches fetch event progress as a 'message' event to a Service Worker.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'No tests created'"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
@@ -20,6 +20,14 @@
     "progress",
     "events"
   ],
-  "author": "JT Houk <jt1992@gmail.com> (https://www.jt-houk.com/)",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pterobyte/sw-progress-fetch.git"
+  },
+  "author": "JT Houk <jt1992@gmail.com> (https://jt.houkasaurus.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pterobyte/sw-progress-fetch/issues"
+  },
+  "homepage": "https://github.com/Pterobyte/sw-progress-fetch#readme"
 }
