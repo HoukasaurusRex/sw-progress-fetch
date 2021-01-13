@@ -1,6 +1,6 @@
 {
   "hooks": {
     "pre-commit": "yarn run eslint --fix",
-    "pre-push": "yarn test && npm publish"
+    "pre-push": "yarn test"
   }
 }
